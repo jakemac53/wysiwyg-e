@@ -1,0 +1,4 @@
+files_to_generate:
+    - wysiwyg-e/wysiwyg-e.html
+files_to_load:
+    - lib/src/undo-mgr/behavior.html
