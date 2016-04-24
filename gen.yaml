@@ -1,4 +1,26 @@
 files_to_generate:
     - wysiwyg-e/wysiwyg-e.html
+    - iron-flex-layout/iron-flex-layout.html
+    - iron-flex-layout/iron-flex-layout-classes.html
+    - iron-icon/iron-icon.html
+    - iron-icons/iron-icons.html
+    - iron-media-query/iron-media-query.html
+    - font-roboto/roboto.html
+    - paper-button/paper-button.html
+    - paper-item/paper-item.html
+    - paper-listbox/paper-listbox.html
+    - paper-menu-button/paper-menu-button.html
+    - iron-behaviors/iron-control-state.html
+    - paper-behaviors/paper-ripple-behavior.html
+#    - wysiwyg-e/tools/blockquote.html
+#    - wysiwyg-e/tools/bold.html
+#    - wysiwyg-e/tools/clear.html
 files_to_load:
     - lib/src/undo-mgr/behavior.html
+    - lib/src/paper-behaviors/paper-button-behavior.html
+    - lib/src/paper-item/paper-item-behavior.html
+    - lib/src/iron-behaviors/iron-button-state.html
+    - lib/src/iron-menu-behavior/iron-menu-behavior.html
+    - lib/src/iron-selector/iron-multi-selectable.html
+    - lib/src/iron-selector/iron-selectable.html
+    - lib/src/iron-a11y-keys-behavior/iron-a11y-keys-behavior.html
