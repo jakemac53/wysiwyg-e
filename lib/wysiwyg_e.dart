@@ -8,18 +8,16 @@ import 'dart:html';
 import 'dart:js' show JsArray, JsObject;
 import 'package:web_components/web_components.dart';
 import 'package:polymer_interop/polymer_interop.dart';
-import 'iron_flex_layout.dart';
-import 'iron_flex_layout_classes.dart';
-import 'iron_icon.dart';
-import 'iron_icons.dart';
-import 'iron_media_query.dart';
-import 'roboto.dart';
-import 'paper_button.dart';
-import 'paper_item.dart';
-import 'paper_listbox.dart';
-import 'paper_menu_button.dart';
-import 'paper_tooltip.dart';
-import 'prism_import.dart';
+import 'package:polymer_elements/iron_flex_layout.dart';
+import 'package:polymer_elements/iron_icon.dart';
+import 'package:polymer_elements/iron_icons.dart';
+import 'package:polymer_elements/iron_media_query.dart';
+import 'package:polymer_elements/roboto.dart';
+import 'package:polymer_elements/paper_button.dart';
+import 'package:polymer_elements/paper_item.dart';
+import 'package:polymer_elements/paper_listbox.dart';
+import 'package:polymer_elements/paper_menu_button.dart';
+import 'package:polymer_elements/paper_tooltip.dart';
 import 'behavior.dart';
 
 /// `<wysiwyg-e>` A what-you-see-is-what-you-get editor created with Polymer.

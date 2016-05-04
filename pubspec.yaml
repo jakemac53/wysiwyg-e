@@ -3,7 +3,8 @@ version: 0.0.0
 environment:
   sdk: '>=1.6.0 <2.0.0'
 dependencies:
-  polymer: '1.0.0-rc.16'
+  polymer: '^1.0.0-rc.16'
+  polymer_elements: '^1.0.0-rc.8'
   browser: any
 dev_dependencies:
   custom_element_apigen: any
